@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 951e8db7d8181ae47b4a08bca624c61e, type: 3}
+  m_Name: Bullets Booster
+  m_EditorClassIdentifier: 
+  name: Bullets Booster
+  pickUpSound: {fileID: 8300000, guid: c44b861d7f9d88244829a2efc9116eb1, type: 3}
+  bulletsAmount: 30
